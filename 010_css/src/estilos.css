@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(62, 62, 62);
+}
+
+.minhaClasse{
+    width: 500px;
+    background-color: aliceblue;
+    margin: 0 auto;
+}
